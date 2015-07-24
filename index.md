@@ -12,6 +12,7 @@ Just a holder website until I find time to fill it out.
 - [https://github.com/ferrants/github-pr](https://github.com/ferrants/github-pr)
 - [https://github.com/ferrants/qball-python](https://github.com/ferrants/qball-python)
 - [https://github.com/ferrants/qball](https://github.com/ferrants/qball)
+- [DataXu Jenkins Automation Demo](https://github.com/ferrants/dataxu-automation-demo)
 
 ### Posts
 - [Automating the Build/Test/Deploy Process](https://www.dataxu.com/github-meetup-automating-the-build-test-deploy-process-at-dataxu-with-jenkins-ansible-and-aws/)
